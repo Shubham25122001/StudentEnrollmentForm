@@ -4,7 +4,7 @@ var jpdbIRL = '/api/irl';
 var jpbdIML = '/api/iml';
 var studentDatabaseName = 'SCHOOL-DB';
 var studentRelationName = 'STUDENT-TABLE';
-var connectionToken = '90932379|-31949271503826183|90955528';
+var connectionToken = '<!--------Enter your connetion token--------------->';
 
 $('#rollNo').focus();
 
